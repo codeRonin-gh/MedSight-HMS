@@ -1,0 +1,101 @@
+{
+  "appointments": [
+    {
+      "id": 101,
+      "patient_name": "Jane Doe",
+      "age": 28,
+      "condition": "Fever",
+      "doctor": "Dr. Mensah",
+      "appointment_time": "2025-11-12T10:00:00",
+      "status": "Scheduled"
+    },
+    {
+      "id": 102,
+      "patient_name": "Kojo Antwi",
+      "age": 35,
+      "condition": "Headache",
+      "doctor": "Dr. Amoah",
+      "appointment_time": "2025-11-12T11:00:00",
+      "status": "Scheduled"
+    },
+    {
+      "id": 103,
+      "patient_name": "Ama Serwaa",
+      "age": 42,
+      "condition": "Back pain",
+      "doctor": "Dr. Mensah",
+      "appointment_time": "2025-11-12T12:00:00",
+      "status": "Scheduled"
+    },
+    {
+      "id": 104,
+      "patient_name": "Kwame Boateng",
+      "age": 50,
+      "condition": "Allergy",
+      "doctor": "Dr. Mensah",
+      "appointment_time": "2025-11-12T13:00:00",
+      "status": "Scheduled"
+    },
+    {
+      "id": 105,
+      "patient_name": "Linda Mensah",
+      "age": 30,
+      "condition": "Sprain",
+      "doctor": "Dr. Amoah",
+      "appointment_time": "2025-11-12T14:00:00",
+      "status": "Scheduled"
+    }
+  ],
+  "wards": [
+    {
+      "id": 201,
+      "name": "Kwame Appiah",
+      "age": 50,
+      "condition": "Pneumonia",
+      "ward": "General",
+      "bed_number": 5,
+      "admission_time": "2025-11-11T13:23:43.811366",
+      "status": "Admitted"
+    },
+    {
+      "id": 202,
+      "name": "Akosua Adjei",
+      "age": 30,
+      "condition": "ICU Care",
+      "ward": "ICU",
+      "bed_number": 1,
+      "admission_time": "2025-11-11T13:23:43.811366",
+      "status": "Admitted"
+    },
+    {
+      "id": 203,
+      "name": "Kofi Boateng",
+      "age": 40,
+      "condition": "Maternity Check",
+      "ward": "Maternity",
+      "bed_number": 2,
+      "admission_time": "2025-11-11T13:23:43.811366",
+      "status": "Admitted"
+    },
+    {
+      "id": 204,
+      "name": "Ama Serwaa",
+      "age": 35,
+      "condition": "Post Surgery",
+      "ward": "General",
+      "bed_number": 6,
+      "admission_time": "2025-11-11T13:23:43.811366",
+      "status": "Admitted"
+    },
+    {
+      "id": 205,
+      "name": "John Mensah",
+      "age": 45,
+      "condition": "Stroke Recovery",
+      "ward": "ICU",
+      "bed_number": 2,
+      "admission_time": "2025-11-11T13:23:43.811366",
+      "status": "Admitted"
+    }
+  ]
+}
